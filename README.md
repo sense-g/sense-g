@@ -9,7 +9,6 @@
 
 <img align="left" alt="GIF" src="https://github.com/sense-g/sense-g/blob/main/work.gif" width="250px"/>
 
-##
 ### Tech Stacks & Tools 📌
 
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/java.png" alt="java" height="42px"/>
@@ -24,6 +23,6 @@
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/jira.png" alt="jira" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/jenkins.png" alt="jenkins" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/google-drive.png" alt="google-drive" height="42px"/>
-</br></br>
+</br></br>  
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=68&text=.&fontAlign=15&fontAlignY=29&fontSize=6&fontColor=FFFFFF&color=gradient&&customColorList=0,2)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=68&text=.&fontAlign=15&fontAlignY=29&fontSize=6&fontColor=FFFFFF&color=gradient)
