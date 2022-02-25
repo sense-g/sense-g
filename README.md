@@ -8,6 +8,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sense-g&show_icons=true&theme=radical&hide_border=false&bg_color=FCFCFC&icon_color=918FE0&text_color=747474&title_color=000000&custom_title=GitHub+Stats" width=49% />
 </a>
 
-<a href="https://github.com/sense-g/github-stats">
- <img src="https://raw.githubusercontent.com/sense-g/github-stats/output/generated/languages.svg" width=49.2% />
-</a>
+<img align="left" alt="GIF" src="https://github.com/sense-g/sense-g/blob/main/work.gif" width="300px"/>
+
