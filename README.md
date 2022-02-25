@@ -10,3 +10,6 @@
 
 <img align="left" alt="GIF" src="https://github.com/sense-g/sense-g/blob/main/work.gif" width="250px"/>
 
+### 🔨 Languages and Tools
+<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/>
+<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/>
