@@ -25,4 +25,5 @@
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/google-drive.png" alt="google-drive" height="42px"/>
 </br></br>  
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=68&text=.&fontAlign=15&fontAlignY=29&fontSize=6&fontColor=FFFFFF&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=68&width=160&text=.&fontSize=6&fontColor=FFFFFF&color=gradient)
+
