@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=454545&duration=6000&size=30&center=true&vCenter=true&width=560&height=53&lines=%E3%80%80%E3%80%80Welcome,+to+the+sense-g's+github:D+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=454545&duration=6000&size=30&center=true&vCenter=true&width=560&height=53&lines=%E3%80%80%E3%80%80Welcome+to+the+sense-g's+github:D+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
   <!-- profile -->
  
@@ -14,5 +14,5 @@
 </a>
   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=sense-g&theme=noctis-minimus&bg_color=FCFCFC&hide_border=false&line=918FE0&color=000000" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=sense-g&theme=noctis-minimus&bg_color=FCFCFC&hide_border=false&line=918FE0&color=000000&point=747474&area=true&area_color=918FE0" width=98%/>
 </a>
