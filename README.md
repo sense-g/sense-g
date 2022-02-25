@@ -9,14 +9,20 @@
 
 <img align="left" alt="GIF" src="https://github.com/sense-g/sense-g/blob/main/work.gif" width="250px"/>
 
-##
-### Tech Stacks 📌
+</br></br>
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=74&text=Tech+Stacks+and+Tools&fontAlign=15&fontAlignY=25&fontSize=24&fontColor=000000&color=gradient)
+
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/java.png" alt="java" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/spring.png" alt="spring" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/mybatis.png" alt="mybatis" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/javascript.png" alt="javascript" height="42px"/>
+<img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/restapi.png" alt="restapi" height="42px"/>
+<img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/msa.png" alt="msa" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/eclipse.png" alt="eclipse" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/Toad.png" alt="Toad" height="42px"/>
+<img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/github.png" alt="github" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/jira.png" alt="jira" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/jenkins.png" alt="jenkins" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/google-drive.png" alt="google-drive" height="42px"/>
+</br>
