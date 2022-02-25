@@ -1,7 +1,7 @@
 <div align="left"/>
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=454545&duration=6000&size=36&center=left&vCenter=true&width=460&height=53&lines=%E3%80%80%E3%80%80Step+by+Step+:D+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=454545&duration=5000&size=32&center=left&vCenter=true&width=240&height=53&lines=Step+by+Step+:D)](https://git.io/typing-svg)
 
 <!-- profile -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
