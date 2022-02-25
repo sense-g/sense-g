@@ -10,7 +10,7 @@
 <img align="left" alt="GIF" src="https://github.com/sense-g/sense-g/blob/main/work.gif" width="250px"/>
 
 ##
-### Languages and Tools
+### Tech Stacks 📌
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/java.png" alt="java" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/spring.png" alt="spring" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/mybatis.png" alt="mybatis" height="42px"/>
