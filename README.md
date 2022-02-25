@@ -6,4 +6,4 @@
 <!-- profile -->
 <img src="https://github-readme-stats.vercel.app/api?username=sense-g&show_icons=true&theme=radical&hide_border=false&bg_color=FCFCFC&icon_color=918FE0&text_color=747474&title_color=000000&custom_title=GitHub+Stats" width=49% />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sense-g&layout=compact&custom_title=Used+Language&langs_count=4" width=49% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sense-g&layout=compact&custom_title=Used+Languages&langs_count=4" width=49% />
