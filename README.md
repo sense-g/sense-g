@@ -11,8 +11,4 @@
   
 <a href="https://github.com/sense-g/github-stats">
  <img src="https://raw.githubusercontent.com/sense-g/github-stats/output/generated/languages.svg" width=49% />
-</a>
-  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=sense-g&theme=noctis-minimus&bg_color=FCFCFC&hide_border=false&line=918FE0&color=000000&point=747474&area=true&area_color=918FE0" width=98%/>
-</a>
+  </a>
