@@ -26,4 +26,3 @@
 </br></br></br>  
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=68&width=160&text=.&fontSize=6&fontColor=FFFFFF&color=gradient)
-
