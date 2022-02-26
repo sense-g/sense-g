@@ -1,4 +1,4 @@
-<div align="left"/></br>
+<div align="left"/>  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=454545&duration=5000&size=32&center=left&vCenter=true&width=240&height=53&lines=Step+by+Step+:D)](https://git.io/typing-svg)
 
@@ -23,6 +23,5 @@
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/jira.png" alt="jira" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/jenkins.png" alt="jenkins" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/google-drive.png" alt="google-drive" height="42px"/>
-</br></br></br>  
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=68&width=160&text=.&fontSize=6&fontColor=FFFFFF&color=gradient)
+<!--![waving](https://capsule-render.vercel.app/api?type=waving&height=68&width=160&text=.&fontSize=6&fontColor=FFFFFF&color=gradient)  -->
