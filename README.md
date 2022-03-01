@@ -10,7 +10,7 @@
 <img align="left" alt="GIF" src="https://github.com/sense-g/sense-g/blob/main/work.gif" width="250px"/>  
 </br></br> 
 
-![rect](https://capsule-render.vercel.app/api?type=rect&height=32&width=160&text=IT'S%20MY&fontAlign=4&fontAlignY=50&fontSize=18&fontColor=FFFFFF&color=gradient&textBg=true&desc=Tech%20%20Stacks%20%20and%20%20Using%20%20Tools&descAlign=26&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=rect&height=32&width=160&text=IT'S%20MY&fontAlign=4&fontAlignY=53&fontSize=18&fontColor=FFFFFF&color=gradient&textBg=true&desc=Tech%20%20Stacks%20%20and%20%20Using%20%20Tools&descAlign=26&descAlignY=53)
 
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/java.png" alt="java" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/spring.png" alt="spring" height="42px"/>
