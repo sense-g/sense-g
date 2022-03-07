@@ -24,4 +24,4 @@
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/jenkins.png" alt="jenkins" height="42px"/>
 <img align="left" src="https://github.com/sense-g/sense-g/blob/main/icons/jira.png" alt="jira" height="42px"/>
 
-<!--![waving](https://capsule-render.vercel.app/api?type=waving&height=68&width=160&text=.&fontSize=6&fontColor=FFFFFF&color=gradient)  -->
+<!--![waving](https://capsule-render.vercel.app/api?type=waving&height=68&width=160&text=.&fontSize=6&fontColor=FFFFFF&color=gradient) -->
